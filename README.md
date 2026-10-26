@@ -34,4 +34,4 @@ Satuan yang digunakan: km, hm, dam, m, dm, cm, mm.
 
 ## Screenshot
 
-![Contoh tampilan]tampilan.png)
+![Contoh tampilan](tampilan.png)
